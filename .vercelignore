@@ -1,0 +1,9 @@
+.git
+.openai
+dist
+README.md
+source-images
+public/products/*.png
+public/hero.png
+
+Gulf-Origin-Preview.html

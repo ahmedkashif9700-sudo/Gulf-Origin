@@ -1,515 +1,515 @@
 [
-  {
-    "id": 1,
-    "category": "Raisins",
-    "name": "Mixed Raisins",
-    "arabic": "زبيب",
-    "price": 30,
-    "unit": "kg",
-    "image": "products/product-01.webp"
-  },
-  {
-    "id": 2,
-    "category": "Raisins",
-    "name": "Black Raisins",
-    "arabic": "الزبيب الأسود",
-    "price": 40,
-    "unit": "kg",
-    "image": "products/product-02.webp"
-  },
-  {
-    "id": 3,
-    "category": "Pistachios",
-    "name": "Salted Pistachios",
-    "arabic": "فستق مملح",
-    "price": 70,
-    "unit": "kg",
-    "image": "products/product-03.webp"
-  },
-  {
-    "id": 4,
-    "category": "Pistachios",
-    "name": "Lemon Pistachios",
-    "arabic": "فستق ليمون",
-    "price": 70,
-    "unit": "kg",
-    "image": "products/product-04.webp"
-  },
-  {
-    "id": 5,
-    "category": "Pistachios",
-    "name": "Natural Pistachios",
-    "arabic": "فستق طبيعي",
-    "price": 70,
-    "unit": "kg",
-    "image": "products/product-05.webp"
-  },
-  {
-    "id": 6,
-    "category": "Almonds",
-    "name": "Lemon Almonds",
-    "arabic": "لوز بالليمون",
-    "price": 55,
-    "unit": "kg",
-    "image": "products/product-06.webp"
-  },
-  {
-    "id": 7,
-    "category": "Almonds",
-    "name": "Salted Almonds",
-    "arabic": "لوز بالملح",
-    "price": 55,
-    "unit": "kg",
-    "image": "products/product-07.webp"
-  },
-  {
-    "id": 8,
-    "category": "Almonds",
-    "name": "American Almonds",
-    "arabic": "لوز أمريكي",
-    "price": 50,
-    "unit": "kg",
-    "image": "products/product-08.webp"
-  },
-  {
-    "id": 9,
-    "category": "Coffee / Ghawa",
-    "name": "Ghawa Barri",
-    "arabic": "",
-    "price": 80,
-    "unit": "kg",
-    "image": "products/product-09.webp"
-  },
-  {
-    "id": 10,
-    "category": "Coffee / Ghawa",
-    "name": "Ghawa Harari",
-    "arabic": "",
-    "price": 45,
-    "unit": "kg",
-    "image": "products/product-10.webp"
-  },
-  {
-    "id": 11,
-    "category": "Coffee / Ghawa",
-    "name": "Ghawa Luqmati",
-    "arabic": "",
-    "price": 40,
-    "unit": "kg",
-    "image": "products/product-11.webp"
-  },
-  {
-    "id": 12,
-    "category": "Coffee / Ghawa",
-    "name": "Ghawa Khowlani",
-    "arabic": "",
-    "price": 90,
-    "unit": "kg",
-    "image": "products/product-12.webp"
-  },
-  {
-    "id": 13,
-    "category": "Coffee / Ghawa",
-    "name": "Ghawa Turki",
-    "arabic": "",
-    "price": 55,
-    "unit": "kg",
-    "image": "products/product-13.webp"
-  },
-  {
-    "id": 14,
-    "category": "Lentils & Pulses",
-    "name": "Masoor Daal",
-    "arabic": "",
-    "price": 7,
-    "unit": "kg",
-    "image": "products/product-14.webp"
-  },
-  {
-    "id": 15,
-    "category": "Lentils & Pulses",
-    "name": "Moong Daal",
-    "arabic": "",
-    "price": 10,
-    "unit": "kg",
-    "image": "products/product-15.webp"
-  },
-  {
-    "id": 16,
-    "category": "Lentils & Pulses",
-    "name": "Chana Daal",
-    "arabic": "",
-    "price": 7,
-    "unit": "kg",
-    "image": "products/product-16.webp"
-  },
-  {
-    "id": 17,
-    "category": "Lentils & Pulses",
-    "name": "Black Chana",
-    "arabic": "",
-    "price": 7,
-    "unit": "kg",
-    "image": "products/product-17.webp"
-  },
-  {
-    "id": 18,
-    "category": "Lentils & Pulses",
-    "name": "Yellow Masoor",
-    "arabic": "",
-    "price": 9,
-    "unit": "kg",
-    "image": "products/product-18.webp"
-  },
-  {
-    "id": 19,
-    "category": "Lentils & Pulses",
-    "name": "Tuar Daal",
-    "arabic": "",
-    "price": 10,
-    "unit": "kg",
-    "image": "products/product-19.webp"
-  },
-  {
-    "id": 20,
-    "category": "Lentils & Pulses",
-    "name": "Green Peas",
-    "arabic": "",
-    "price": 5,
-    "unit": "kg",
-    "image": "products/product-20.webp"
-  },
-  {
-    "id": 21,
-    "category": "Lentils & Pulses",
-    "name": "Whole Masoor",
-    "arabic": "",
-    "price": 8,
-    "unit": "kg",
-    "image": "products/product-21.webp"
-  },
-  {
-    "id": 22,
-    "category": "Saffron",
-    "name": "Zafran 1.5g",
-    "arabic": "",
-    "price": 15,
-    "unit": "1.5g pack",
-    "image": "products/product-22.webp"
-  },
-  {
-    "id": 23,
-    "category": "Saffron",
-    "name": "Zafran 3g",
-    "arabic": "",
-    "price": 28,
-    "unit": "3g pack",
-    "image": "products/product-23.webp"
-  },
-  {
-    "id": 24,
-    "category": "Saffron",
-    "name": "Zafran Threads 1g",
-    "arabic": "",
-    "price": 20,
-    "unit": "1g pack",
-    "image": "products/product-24.webp"
-  },
-  {
-    "id": 25,
-    "category": "Onion",
-    "name": "Dried Onion Slices",
-    "arabic": "بصل شرائح مجفف",
-    "price": 28,
-    "unit": "kg",
-    "image": "products/product-25.webp"
-  },
-  {
-    "id": 26,
-    "category": "Onion",
-    "name": "Fried Onion",
-    "arabic": "بصل مقلي",
-    "price": 28,
-    "unit": "kg",
-    "image": "products/product-26.webp"
-  },
-  {
-    "id": 27,
-    "category": "Onion",
-    "name": "Yellow Onion",
-    "arabic": "بصل أصفر",
-    "price": 28,
-    "unit": "kg",
-    "image": "products/product-27.webp"
-  },
-  {
-    "id": 28,
-    "category": "Cardamom",
-    "name": "Indian Black Cardamom",
-    "arabic": "هيل هندي أسود",
-    "price": 145,
-    "unit": "kg",
-    "image": "products/product-28.webp"
-  },
-  {
-    "id": 29,
-    "category": "Cardamom",
-    "name": "American Cardamom No. 1",
-    "arabic": "هيل أمريكي رقم 1",
-    "price": 170,
-    "unit": "kg",
-    "image": "products/product-29.webp"
-  },
-  {
-    "id": 30,
-    "category": "Cardamom",
-    "name": "American Cardamom No. 2",
-    "arabic": "هيل أمريكي رقم 2",
-    "price": 160,
-    "unit": "kg",
-    "image": "products/product-30.webp"
-  },
-  {
-    "id": 31,
-    "category": "Spices",
-    "name": "Qaseem Garden Cress",
-    "arabic": "رشاد القصيم",
-    "price": 36,
-    "unit": "kg",
-    "image": "products/product-31.webp"
-  },
-  {
-    "id": 32,
-    "category": "Spices",
-    "name": "Star Anise",
-    "arabic": "نجمة اليانسون",
-    "price": 57,
-    "unit": "kg",
-    "image": "products/product-32.webp"
-  },
-  {
-    "id": 33,
-    "category": "Spices",
-    "name": "Mustard",
-    "arabic": "خردل",
-    "price": 23,
-    "unit": "kg",
-    "image": "products/product-33.webp"
-  },
-  {
-    "id": 34,
-    "category": "Spices",
-    "name": "Black Pepper",
-    "arabic": "فلفل أسود",
-    "price": 48,
-    "unit": "kg",
-    "image": "products/product-34.webp"
-  },
-  {
-    "id": 35,
-    "category": "Spices",
-    "name": "Coriander",
-    "arabic": "كزبرة",
-    "price": 23,
-    "unit": "kg",
-    "image": "products/product-35.webp"
-  },
-  {
-    "id": 36,
-    "category": "Spices",
-    "name": "Dried Black Lemon",
-    "arabic": "ليمون أسود",
-    "price": 28,
-    "unit": "kg",
-    "image": "products/product-36.webp"
-  },
-  {
-    "id": 37,
-    "category": "Spices",
-    "name": "Garlic Slices",
-    "arabic": "ثوم شرائح",
-    "price": 28,
-    "unit": "kg",
-    "image": "products/product-37.webp"
-  },
-  {
-    "id": 38,
-    "category": "Spices",
-    "name": "Whole Garlic",
-    "arabic": "ثوم ذكر",
-    "price": 48,
-    "unit": "kg",
-    "image": "products/product-38.webp"
-  },
-  {
-    "id": 39,
-    "category": "Spices",
-    "name": "Turmeric Whole",
-    "arabic": "كركم حب",
-    "price": 23,
-    "unit": "kg",
-    "image": "products/product-39.webp"
-  },
-  {
-    "id": 40,
-    "category": "Spices",
-    "name": "Turmeric Finger",
-    "arabic": "كركم ذكر",
-    "price": 35,
-    "unit": "kg",
-    "image": "products/product-40.webp"
-  },
-  {
-    "id": 41,
-    "category": "Spices",
-    "name": "Turmeric Powder",
-    "arabic": "كركم مطحون",
-    "price": 30,
-    "unit": "kg",
-    "image": "products/product-41.webp"
-  },
-  {
-    "id": 42,
-    "category": "Spices",
-    "name": "Ginger Whole",
-    "arabic": "زنجبيل حب",
-    "price": 40,
-    "unit": "kg",
-    "image": "products/product-42.webp"
-  },
-  {
-    "id": 43,
-    "category": "Spices",
-    "name": "Ginger Powder",
-    "arabic": "زنجبيل مطحون",
-    "price": 40,
-    "unit": "kg",
-    "image": "products/product-43.webp"
-  },
-  {
-    "id": 44,
-    "category": "Fenugreek, Bay Leaves & Cinnamon",
-    "name": "Qaseem Fenugreek",
-    "arabic": "حلبة القصيم",
-    "price": 30,
-    "unit": "kg",
-    "image": "products/product-44.webp"
-  },
-  {
-    "id": 45,
-    "category": "Fenugreek, Bay Leaves & Cinnamon",
-    "name": "Green Fenugreek",
-    "arabic": "حلبة خضراء",
-    "price": 40,
-    "unit": "kg",
-    "image": "products/product-45.webp"
-  },
-  {
-    "id": 46,
-    "category": "Fenugreek, Bay Leaves & Cinnamon",
-    "name": "Bay Leaves",
-    "arabic": "ورق غار",
-    "price": 35,
-    "unit": "kg",
-    "image": "products/product-46.webp"
-  },
-  {
-    "id": 47,
-    "category": "Fenugreek, Bay Leaves & Cinnamon",
-    "name": "Ceylon Cinnamon",
-    "arabic": "قرفة سيلاني",
-    "price": 30,
-    "unit": "250g",
-    "image": "products/product-47.webp"
-  },
-  {
-    "id": 48,
-    "category": "Fenugreek, Bay Leaves & Cinnamon",
-    "name": "Chinese Cinnamon",
-    "arabic": "قرفة صيني",
-    "price": 28,
-    "unit": "kg",
-    "image": "products/product-48.webp"
-  },
-  {
-    "id": 49,
-    "category": "Dates",
-    "name": "Kalmi Dates",
-    "arabic": "تمر كلمي",
-    "price": 27,
-    "unit": "kg",
-    "image": "products/product-49.webp"
-  },
-  {
-    "id": 50,
-    "category": "Dates",
-    "name": "Ajwa Madinah",
-    "arabic": "عجوة المدينة",
-    "price": 37,
-    "unit": "kg",
-    "image": "products/product-50.webp"
-  },
-  {
-    "id": 51,
-    "category": "Dates",
-    "name": "Medjool Dates",
-    "arabic": "تمر مجدول",
-    "price": 38,
-    "unit": "kg",
-    "image": "products/product-51.webp"
-  },
-  {
-    "id": 52,
-    "category": "Dates",
-    "name": "Sukari Dates",
-    "arabic": "تمر سكري",
-    "price": 23,
-    "unit": "kg",
-    "image": "products/product-52.webp"
-  },
-  {
-    "id": 53,
-    "category": "Dates",
-    "name": "Mabroom Dates",
-    "arabic": "تمر مبروم",
-    "price": 40,
-    "unit": "kg",
-    "image": "products/product-53.webp"
-  },
-  {
-    "id": 54,
-    "category": "Dates",
-    "name": "Anbara Madinah Dates",
-    "arabic": "تمر عنبر المدينة",
-    "price": 40,
-    "unit": "kg",
-    "image": "products/product-54.webp"
-  },
-  {
-    "id": 55,
-    "category": "Spices",
-    "name": "Nukhwa",
-    "arabic": "نخوه",
-    "price": 28,
-    "unit": "kg",
-    "image": "products/product-55-v2.webp"
-  },
-  {
-    "id": 56,
-    "category": "Lentils & Pulses",
-    "name": "كنوه فله",
-    "arabic": "كنوه فله",
-    "price": 57,
-    "unit": "kg",
-    "image": "products/product-56.webp"
-  },
-  {
-    "id": 57,
-    "category": "Spices",
-    "name": "Fennel Seeds",
-    "arabic": "شمر",
-    "price": 35,
-    "unit": "kg",
-    "image": "products/product-57.webp"
-  }
+ {
+  "id": 1,
+  "category": "Raisins",
+  "name": "Mixed Raisins",
+  "arabic": "زبيب",
+  "price": 30,
+  "unit": "kg",
+  "image": "products/product-01.webp"
+ },
+ {
+  "id": 2,
+  "category": "Raisins",
+  "name": "Black Raisins",
+  "arabic": "الزبيب الأسود",
+  "price": 40,
+  "unit": "kg",
+  "image": "products/product-02.webp"
+ },
+ {
+  "id": 3,
+  "category": "Pistachios",
+  "name": "Salted Pistachios",
+  "arabic": "فستق مملح",
+  "price": 70,
+  "unit": "kg",
+  "image": "products/product-03.webp"
+ },
+ {
+  "id": 4,
+  "category": "Pistachios",
+  "name": "Lemon Pistachios",
+  "arabic": "فستق ليمون",
+  "price": 70,
+  "unit": "kg",
+  "image": "products/product-04.webp"
+ },
+ {
+  "id": 5,
+  "category": "Pistachios",
+  "name": "Natural Pistachios",
+  "arabic": "فستق طبيعي",
+  "price": 70,
+  "unit": "kg",
+  "image": "products/product-05.webp"
+ },
+ {
+  "id": 6,
+  "category": "Almonds",
+  "name": "Lemon Almonds",
+  "arabic": "لوز بالليمون",
+  "price": 55,
+  "unit": "kg",
+  "image": "products/product-06.webp"
+ },
+ {
+  "id": 7,
+  "category": "Almonds",
+  "name": "Salted Almonds",
+  "arabic": "لوز بالملح",
+  "price": 55,
+  "unit": "kg",
+  "image": "products/product-07.webp"
+ },
+ {
+  "id": 8,
+  "category": "Almonds",
+  "name": "American Almonds",
+  "arabic": "لوز أمريكي",
+  "price": 50,
+  "unit": "kg",
+  "image": "products/product-08.webp"
+ },
+ {
+  "id": 9,
+  "category": "Coffee / Ghawa",
+  "name": "Ghawa Barri",
+  "arabic": "",
+  "price": 80,
+  "unit": "kg",
+  "image": "products/product-09.webp"
+ },
+ {
+  "id": 10,
+  "category": "Coffee / Ghawa",
+  "name": "Ghawa Harari",
+  "arabic": "",
+  "price": 45,
+  "unit": "kg",
+  "image": "products/product-10.webp"
+ },
+ {
+  "id": 11,
+  "category": "Coffee / Ghawa",
+  "name": "Ghawa Luqmati",
+  "arabic": "",
+  "price": 40,
+  "unit": "kg",
+  "image": "products/product-11.webp"
+ },
+ {
+  "id": 12,
+  "category": "Coffee / Ghawa",
+  "name": "Ghawa Khowlani",
+  "arabic": "",
+  "price": 90,
+  "unit": "kg",
+  "image": "products/product-12.webp"
+ },
+ {
+  "id": 13,
+  "category": "Coffee / Ghawa",
+  "name": "Ghawa Turki",
+  "arabic": "",
+  "price": 55,
+  "unit": "kg",
+  "image": "products/product-13.webp"
+ },
+ {
+  "id": 14,
+  "category": "Lentils & Pulses",
+  "name": "Masoor Daal",
+  "arabic": "",
+  "price": 7,
+  "unit": "kg",
+  "image": "products/product-14.webp"
+ },
+ {
+  "id": 15,
+  "category": "Lentils & Pulses",
+  "name": "Moong Daal",
+  "arabic": "",
+  "price": 10,
+  "unit": "kg",
+  "image": "products/product-15.webp"
+ },
+ {
+  "id": 16,
+  "category": "Lentils & Pulses",
+  "name": "Chana Daal",
+  "arabic": "",
+  "price": 7,
+  "unit": "kg",
+  "image": "products/product-16.webp"
+ },
+ {
+  "id": 17,
+  "category": "Lentils & Pulses",
+  "name": "Black Chana",
+  "arabic": "",
+  "price": 7,
+  "unit": "kg",
+  "image": "products/product-17.webp"
+ },
+ {
+  "id": 18,
+  "category": "Lentils & Pulses",
+  "name": "Yellow Masoor",
+  "arabic": "",
+  "price": 9,
+  "unit": "kg",
+  "image": "products/product-18.webp"
+ },
+ {
+  "id": 19,
+  "category": "Lentils & Pulses",
+  "name": "Tuar Daal",
+  "arabic": "",
+  "price": 10,
+  "unit": "kg",
+  "image": "products/product-19.webp"
+ },
+ {
+  "id": 20,
+  "category": "Lentils & Pulses",
+  "name": "Green Peas",
+  "arabic": "",
+  "price": 5,
+  "unit": "kg",
+  "image": "products/product-20.webp"
+ },
+ {
+  "id": 21,
+  "category": "Lentils & Pulses",
+  "name": "Whole Masoor",
+  "arabic": "",
+  "price": 8,
+  "unit": "kg",
+  "image": "products/product-21.webp"
+ },
+ {
+  "id": 22,
+  "category": "Saffron",
+  "name": "Zafran 1.5g",
+  "arabic": "",
+  "price": 15,
+  "unit": "1.5g pack",
+  "image": "products/product-22.webp"
+ },
+ {
+  "id": 23,
+  "category": "Saffron",
+  "name": "Zafran 3g",
+  "arabic": "",
+  "price": 28,
+  "unit": "3g pack",
+  "image": "products/product-23.webp"
+ },
+ {
+  "id": 24,
+  "category": "Saffron",
+  "name": "Zafran Threads 1g",
+  "arabic": "",
+  "price": 20,
+  "unit": "1g pack",
+  "image": "products/product-24.webp"
+ },
+ {
+  "id": 25,
+  "category": "Onion",
+  "name": "Dried Onion Slices",
+  "arabic": "بصل شرائح مجفف",
+  "price": 28,
+  "unit": "kg",
+  "image": "products/product-25.webp"
+ },
+ {
+  "id": 26,
+  "category": "Onion",
+  "name": "Fried Onion",
+  "arabic": "بصل مقلي",
+  "price": 28,
+  "unit": "kg",
+  "image": "products/product-26.webp"
+ },
+ {
+  "id": 27,
+  "category": "Onion",
+  "name": "Yellow Onion",
+  "arabic": "بصل أصفر",
+  "price": 28,
+  "unit": "kg",
+  "image": "products/product-27.webp"
+ },
+ {
+  "id": 28,
+  "category": "Cardamom",
+  "name": "Indian Black Cardamom",
+  "arabic": "هيل هندي أسود",
+  "price": 145,
+  "unit": "kg",
+  "image": "products/product-28.webp"
+ },
+ {
+  "id": 29,
+  "category": "Cardamom",
+  "name": "American Cardamom No. 1",
+  "arabic": "هيل أمريكي رقم 1",
+  "price": 170,
+  "unit": "kg",
+  "image": "products/product-29.webp"
+ },
+ {
+  "id": 30,
+  "category": "Cardamom",
+  "name": "American Cardamom No. 2",
+  "arabic": "هيل أمريكي رقم 2",
+  "price": 160,
+  "unit": "kg",
+  "image": "products/product-30.webp"
+ },
+ {
+  "id": 31,
+  "category": "Spices",
+  "name": "Qaseem Garden Cress",
+  "arabic": "رشاد القصيم",
+  "price": 36,
+  "unit": "kg",
+  "image": "products/product-31.webp"
+ },
+ {
+  "id": 32,
+  "category": "Spices",
+  "name": "Star Anise",
+  "arabic": "نجمة اليانسون",
+  "price": 57,
+  "unit": "kg",
+  "image": "products/product-32.webp"
+ },
+ {
+  "id": 33,
+  "category": "Spices",
+  "name": "Mustard",
+  "arabic": "خردل",
+  "price": 23,
+  "unit": "kg",
+  "image": "products/product-33.webp"
+ },
+ {
+  "id": 34,
+  "category": "Spices",
+  "name": "Black Pepper",
+  "arabic": "فلفل أسود",
+  "price": 48,
+  "unit": "kg",
+  "image": "products/product-34.webp"
+ },
+ {
+  "id": 35,
+  "category": "Spices",
+  "name": "Coriander",
+  "arabic": "كزبرة",
+  "price": 23,
+  "unit": "kg",
+  "image": "products/product-35.webp"
+ },
+ {
+  "id": 36,
+  "category": "Spices",
+  "name": "Dried Black Lemon",
+  "arabic": "ليمون أسود",
+  "price": 28,
+  "unit": "kg",
+  "image": "products/product-36.webp"
+ },
+ {
+  "id": 37,
+  "category": "Spices",
+  "name": "Garlic Slices",
+  "arabic": "ثوم شرائح",
+  "price": 28,
+  "unit": "kg",
+  "image": "products/product-37.webp"
+ },
+ {
+  "id": 38,
+  "category": "Spices",
+  "name": "Whole Garlic",
+  "arabic": "ثوم ذكر",
+  "price": 48,
+  "unit": "kg",
+  "image": "products/product-38.webp"
+ },
+ {
+  "id": 39,
+  "category": "Spices",
+  "name": "Turmeric Whole",
+  "arabic": "كركم حب",
+  "price": 23,
+  "unit": "kg",
+  "image": "products/product-39.webp"
+ },
+ {
+  "id": 40,
+  "category": "Spices",
+  "name": "Turmeric Finger",
+  "arabic": "كركم ذكر",
+  "price": 35,
+  "unit": "kg",
+  "image": "products/product-40.webp"
+ },
+ {
+  "id": 41,
+  "category": "Spices",
+  "name": "Turmeric Powder",
+  "arabic": "كركم مطحون",
+  "price": 30,
+  "unit": "kg",
+  "image": "products/product-41.webp"
+ },
+ {
+  "id": 42,
+  "category": "Spices",
+  "name": "Ginger Whole",
+  "arabic": "زنجبيل حب",
+  "price": 40,
+  "unit": "kg",
+  "image": "products/product-42.webp"
+ },
+ {
+  "id": 43,
+  "category": "Spices",
+  "name": "Ginger Powder",
+  "arabic": "زنجبيل مطحون",
+  "price": 40,
+  "unit": "kg",
+  "image": "products/product-43.webp"
+ },
+ {
+  "id": 44,
+  "category": "Fenugreek, Bay Leaves & Cinnamon",
+  "name": "Qaseem Fenugreek",
+  "arabic": "حلبة القصيم",
+  "price": 30,
+  "unit": "kg",
+  "image": "products/product-44.webp"
+ },
+ {
+  "id": 45,
+  "category": "Fenugreek, Bay Leaves & Cinnamon",
+  "name": "Green Fenugreek",
+  "arabic": "حلبة خضراء",
+  "price": 40,
+  "unit": "kg",
+  "image": "products/product-45.webp"
+ },
+ {
+  "id": 46,
+  "category": "Fenugreek, Bay Leaves & Cinnamon",
+  "name": "Bay Leaves",
+  "arabic": "ورق غار",
+  "price": 35,
+  "unit": "kg",
+  "image": "products/product-46.webp"
+ },
+ {
+  "id": 47,
+  "category": "Fenugreek, Bay Leaves & Cinnamon",
+  "name": "Ceylon Cinnamon",
+  "arabic": "قرفة سيلاني",
+  "price": 30,
+  "unit": "250g",
+  "image": "products/product-47.webp"
+ },
+ {
+  "id": 48,
+  "category": "Fenugreek, Bay Leaves & Cinnamon",
+  "name": "Chinese Cinnamon",
+  "arabic": "قرفة صيني",
+  "price": 28,
+  "unit": "kg",
+  "image": "products/product-48.webp"
+ },
+ {
+  "id": 49,
+  "category": "Dates",
+  "name": "Kalmi Dates",
+  "arabic": "تمر كلمي",
+  "price": 27,
+  "unit": "kg",
+  "image": "products/product-49.webp"
+ },
+ {
+  "id": 50,
+  "category": "Dates",
+  "name": "Ajwa Madinah",
+  "arabic": "عجوة المدينة",
+  "price": 37,
+  "unit": "kg",
+  "image": "products/product-50.webp"
+ },
+ {
+  "id": 51,
+  "category": "Dates",
+  "name": "Medjool Dates",
+  "arabic": "تمر مجدول",
+  "price": 38,
+  "unit": "kg",
+  "image": "products/product-51.webp"
+ },
+ {
+  "id": 52,
+  "category": "Dates",
+  "name": "Sukari Dates",
+  "arabic": "تمر سكري",
+  "price": 23,
+  "unit": "kg",
+  "image": "products/product-52.webp"
+ },
+ {
+  "id": 53,
+  "category": "Dates",
+  "name": "Mabroom Dates",
+  "arabic": "تمر مبروم",
+  "price": 40,
+  "unit": "kg",
+  "image": "products/product-53.webp"
+ },
+ {
+  "id": 54,
+  "category": "Dates",
+  "name": "Anbara Madinah Dates",
+  "arabic": "تمر عنبر المدينة",
+  "price": 40,
+  "unit": "kg",
+  "image": "products/product-54.webp"
+ },
+ {
+  "id": 55,
+  "category": "Spices",
+  "name": "Nukhwa",
+  "arabic": "نخوه",
+  "price": 28,
+  "unit": "kg",
+  "image": "products/product-55-v2.webp"
+ },
+ {
+  "id": 56,
+  "category": "Lentils & Pulses",
+  "name": "Kanwa Falleh",
+  "arabic": "كنوه فله",
+  "price": 57,
+  "unit": "kg",
+  "image": "products/product-56.webp"
+ },
+ {
+  "id": 57,
+  "category": "Spices",
+  "name": "Fennel Seeds",
+  "arabic": "شمر",
+  "price": 35,
+  "unit": "kg",
+  "image": "products/product-57.webp"
+ }
 ]

@@ -67,3 +67,6 @@
 .motion-off .collection-wash,.motion-off .card-glow{animation:none;will-change:auto}
 
 .collection-wash,.card-glow{animation-play-state:paused}.atmosphere-active .collection-wash,.product-card.is-in-view .card-glow{animation-play-state:running}
+
+/* Screen-reader-only utility (SEO keyword support + accessibility) */
+.sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0;}

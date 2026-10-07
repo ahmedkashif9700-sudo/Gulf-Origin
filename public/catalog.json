@@ -511,5 +511,68 @@
   "price": 35,
   "unit": "kg",
   "image": "products/product-57.webp"
+ },
+ {
+  "id": 58,
+  "category": "Spices",
+  "name": "Moringa Leaves",
+  "arabic": "ورق مورينجا",
+  "price": 60,
+  "unit": "kg",
+  "image": "products/product-58.webp"
+ },
+ {
+  "id": 59,
+  "category": "Spices",
+  "name": "Basil Seeds",
+  "arabic": "بذور ريحان",
+  "price": 50,
+  "unit": "kg",
+  "image": "products/product-59.webp"
+ },
+ {
+  "id": 60,
+  "category": "Spices",
+  "name": "Dried Pomegranate Seeds",
+  "arabic": "حب رمان",
+  "price": 65,
+  "unit": "kg",
+  "image": "products/product-60.webp"
+ },
+ {
+  "id": 61,
+  "category": "Spices",
+  "name": "Desiccated Coconut",
+  "arabic": "جوز الهند مطحون",
+  "price": 23,
+  "unit": "kg",
+  "image": "products/product-61.webp"
+ },
+ {
+  "id": 62,
+  "category": "Lentils & Pulses",
+  "name": "Bulgur Wheat",
+  "arabic": "برغل",
+  "price": 8,
+  "unit": "kg",
+  "image": "products/product-62.webp"
+ },
+ {
+  "id": 63,
+  "category": "Lentils & Pulses",
+  "name": "Semolina",
+  "arabic": "سميد",
+  "price": 8,
+  "unit": "kg",
+  "image": "products/product-63.webp"
+ },
+ {
+  "id": 64,
+  "category": "Spices",
+  "name": "Ground Zaatar",
+  "arabic": "زعتر مطحون",
+  "price": 15,
+  "unit": "kg",
+  "image": "products/product-64.webp"
  }
 ]
